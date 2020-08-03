@@ -8,7 +8,7 @@ Golang v1.13+ should be installed in your local machine.
 
 ```git clone https://github.com/SHAPPY0/News_Feed_Go.git```
 
-**2. Navigate to the cloned floder and open terminal run blow command to start the Go app-**
+**2. Navigate to the cloned folder and open terminal run blow command to start the Go app-**
 
 
 ```go run main.go```
